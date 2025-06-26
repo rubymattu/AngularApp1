@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { 
+  margin: 0; 
+  font-family: Optima, Helvetica, Arial, sans-serif; 
+  font-size: 2em; 
+  color: #333; 
+  background-color: #e8e8e8; 
+  padding: 50px 100px;
+}
